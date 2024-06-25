@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cedric Turner
-- 👀 I’m interested in Quantum Computing, AI/ML, and Physics!
+- 👀 I’m interested in Quantum Computing, AI/ML, and Computational Physics!
 - 📫 How to reach me: +1(678)-500-6212, cedricbturner@gmail.com
 
 <!---
